@@ -1,0 +1,5 @@
+# serialobot
+
+ОБЯЗАТЕЛЬНО! надо скачать 
+https://docviewer.yandex.ru/view/0/?*=f%2BRnRH0zI22f%2Bc3sU4%2BHG%2Fp4cah7InVybCI6InlhLWRpc2stcHVibGljOi8vRTIvWHBDRlZuYlQwYmNrOW5TWStKK0t2endwSGNYYmw3M0M4M05YUnVhdXZSb2Vqc1JiOTVlSnFicjFSNmlYM3EvSjZicG1SeU9Kb25UM1ZvWG5EYWc9PTovdG9ycmVudHNfc3FsaXRlM18yMDIwMTEyOC43eiIsInRpdGxlIjoidG9ycmVudHNfc3FsaXRlM18yMDIwMTEyOC43eiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMCIsInRzIjoxNjA3NTUxMzA0MTYzLCJ5dSI6IjcwNzM2OTk3MDE1OTg5NzgzMDYifQ%3D%3D
+вот эту базу данных, иначе бот не будет работать.
